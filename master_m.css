@@ -56,6 +56,7 @@
     background-repeat: no-repeat;
     background-position: center; 
     background-size: 390px 500px;
+    overflow: hidden;
 }
 
 .warp01 {
@@ -63,6 +64,7 @@
     text-align: center;
     width: 100%;
     height: 500px;
+    overflow: hidden;
 }
 
 .warp02 {
@@ -70,6 +72,7 @@
     text-align: center;
     width: 100%;
     height: 522px;
+    overflow: hidden;
 }
 
 .warp03 {
@@ -77,6 +80,7 @@
     text-align: center;
     width: 100%;
     height: 491px;
+    overflow: hidden;
 }
 
 .warp04 {
@@ -85,6 +89,7 @@
     width: 100%;
     height: 564px;
     background-color: black;
+    overflow: hidden;
 }
 
 .warp05 {
@@ -92,6 +97,7 @@
     text-align: center;
     width: 100%;
     height: 866px;
+    overflow: hidden;
 }
 
 .warp06 {
@@ -99,6 +105,7 @@
     text-align: center;
     width: 100%;
     height: 838px;
+    overflow: hidden;
 }
 
 .con01{
