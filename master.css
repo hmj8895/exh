@@ -34,14 +34,6 @@
 }
 *{margin: 0; padding: 0; text-decoration: none; list-style-type: none;}
 
-header{ 
-    width: 100%;
-    height: 50px;
-    background-color: #ffffff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
 #myvideo {
     width: 1240px;
