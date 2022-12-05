@@ -56,11 +56,21 @@
     z-index: 5;
 }
 
+.main2{
+    position: absolute;
+    align-items: center;
+    width: 100%;
+    height: 1080px;
+    background-color: black;
+    z-index: 1;
+}
+
 .warp01 {
     position: relative;
     text-align: center;
     width: 100%;
     height: 1080px;
+    z-index: 4;
 }
 
 .warp02 {
@@ -155,6 +165,7 @@
     background-repeat: no-repeat;
     background-position: center;
     top: 1137px;
+    background-color: rgb(126, 126, 126);
 }
 
 .con2_00{
