@@ -108,6 +108,14 @@
     overflow: hidden;
 }
 
+.warp07 {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 318px;
+    overflow: hidden;
+}
+
 .con01{
     position: absolute;
     align-items: center;
@@ -326,6 +334,26 @@
     width: 100%;
     height: 219px;
     top: 619px;
+}
+
+.con6_01{
+    position: absolute;
+    align-items: center;
+    background-image: url('img_m/06_01.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 194px 57px;
+    width: 100%;
+    height: 57px;
+    top: 20px;
+}
+
+.con6_02{
+    position: absolute;
+    align-items: center;
+    width: 100%;
+    height: 219px;
+    top: 100px;
 }
 
 .footer_main{
