@@ -113,7 +113,14 @@
     position: relative;
     text-align: center;
     width: 100%;
-    height: 1400px;
+    height: 1500px;
+}
+
+.warp08 {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 1500px;
 }
 
 .con01{
@@ -357,6 +364,25 @@
 }
 
 .con6_02{
+    position: absolute;
+    align-items: center;
+    width: 100%;
+    height: 1080px;
+    top: 315px;
+}
+
+.con7_01{
+    position: absolute;
+    align-items: center;
+    background-image: url('img/07_01.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 201px;
+    top: 0px;
+}
+
+.con7_02{
     position: absolute;
     align-items: center;
     width: 100%;
