@@ -346,6 +346,25 @@
     top: 2583px;
 }
 
+.con6_01{
+    position: absolute;
+    align-items: center;
+    background-image: url('img_m/06_01.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 1080px;
+    top: 2813px;
+}
+
+.con6_02{
+    position: absolute;
+    align-items: center;
+    width: 100%;
+    height: 219px;
+    top: 3000px;
+}
+
 footer{
     position: relative;
     text-align: center;
